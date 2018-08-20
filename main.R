@@ -4,4 +4,6 @@ m <- function(x){
 }
 
 Just trying to stuff up the project.
-Let's stuff it up a bit more. :)
+Let's staff it up a bit more. :)
+
+Why is it green? Teype the answer here please.
